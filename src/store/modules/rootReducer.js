@@ -1,7 +1,7 @@
-import {combineReducers} from 'redux'
+import { combineReducers } from 'redux';
 
-import reserve from './reserve/reducer'
+import reserve from './reserve/reducer';
 
 export default combineReducers({
-    reserve,
+  reserve,
 })
